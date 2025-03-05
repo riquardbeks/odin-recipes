@@ -1,0 +1,25 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.recipeLists {
+    font-size: medium;
+    color: black;    
+}
+
+.afsluiter {
+    font-size: xx-small;
+    color: darkgrey;
+}
+
+a:link {
+    color: darkred;
+}
+
+a:visited {
+    color:darkgreen;
+}
